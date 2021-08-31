@@ -1,2 +1,4 @@
-# Glitcher-V1
-qwewqeqweqweqewqeqwewqe2131w12312321wwewqw
+Glitcher V1 - Update
+*New modes
+*New audio
+Glitcher V1 - End
