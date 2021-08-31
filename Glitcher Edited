@@ -1,6 +1,6 @@
 
 
-ocal REALGAME = game
+local REALGAME = game
 
 local changemode = Instance.new("Sound", owner.Character.Torso)
 changemode.SoundId = "rbxassetid://847061203"
